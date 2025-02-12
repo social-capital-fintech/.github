@@ -1,1 +1,1 @@
-![Social Capital Fintech public profile poster](social-capital-fintech-public-profile.png?raw=true)
+![Social Capital Fintech public profile poster](../social-capital-fintech-public-profile.png?raw=true)
